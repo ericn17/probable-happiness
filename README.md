@@ -18,11 +18,12 @@
  This is a note taker application that lets you write and save notes so that you can stay organized and keep track of tasks you need to complete.
   ## [Installation](#table-of-contents)
 
-  *
+  Deployed Link: https://vast-plateau-35030.herokuapp.com/
   
   ## [Usage](#table-of-contents)
  
- *
+ ![vast-plateau-35030 herokuapp com_](https://user-images.githubusercontent.com/103549017/174421622-b1c1148c-d4a3-4baa-9c41-8350a8851a5e.png)
+
   
   ## [License](#table-of-contents)
   The application is covered under the following license:
